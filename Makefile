@@ -23,9 +23,12 @@ main:
 282a:
 	g++ 282a.cpp -o 282a
 
+791a:
+	g++ 791a.cpp -o 791a
+
 # aux:
 # 	g++ 4a_aux/ben.cpp -o ben
 # 	g++ 4a_aux/[WIP]-decompose.cpp -o dec
 
 clean:
-	rm 4a 71a 236a 281a 282a
+	rm 4a 71a 236a 281a 282a 791a
