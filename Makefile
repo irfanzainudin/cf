@@ -14,6 +14,9 @@ main:
 71a:
 	g++ 71a.cpp -o 71a
 
+112a:
+	g++ 112a.cpp -o 112a
+
 236a:
 	g++ 236a.cpp -o 236a
 
@@ -34,4 +37,4 @@ main:
 # 	g++ 4a_aux/[WIP]-decompose.cpp -o dec
 
 clean:
-	rm 4a 71a 236a 281a 282a 617a 791a
+	rm 4a 71a 112a 236a 281a 282a 617a 791a
